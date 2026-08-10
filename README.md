@@ -1,14 +1,18 @@
-# Repository overview
+# Rapid evolution of multidimensional traits and climate-driven syndromes in an invasive plant across latitudinal gradients
 
-This repository hosts the **raw data** for a common-garden study examining rapid evolutionary divergence of multidimensional trait syndromes in the invasive plant *Spartina alterniflora* between its native (USA) and introduced (China) ranges. The workflow reproduces the core statistical analyses and figures.
+## Repository overview
 
-For full methods and results, please refer to our study:
+This repository contains the data and R code associated with our study of rapid evolutionary divergence in multidimensional trait syndromes of *Spartina alterniflora* across its native (USA) and introduced (China) ranges.
 
-> "Rapid evolution of multidimensional traits and climate-driven syndromes in an invasive plant across latitudinal gradients" *Journal of Ecology* (in review)
+The study has been accepted for publication in *Journal of Ecology*.
 
-## What's in this repository
+## Repository contents
 
-### Data files
+- `Raw data - Spartina syndromes - 0808.xlsx`
+  Family-level dataset used for the statistical analyses.
 
-- `Raw data - 0701.xlsx` Family-level dataset used as the input for all analyses.
-- `Raw data - README - 0701.docx` Column descriptions for the raw dataset.
+- `Raw data - README - 0808.docx`
+  Description of variables included in the dataset.
+
+- `R code - Spartina syndromes - 0808.R`
+  R code used for the statistical analyses and generation of figures and tables.
