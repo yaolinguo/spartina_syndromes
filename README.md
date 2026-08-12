@@ -9,7 +9,7 @@ The study has been accepted for publication in *Journal of Ecology*.
 ## Repository contents
 
 - `Raw data - Spartina syndromes - 0808.xlsx`
-  Family-level dataset used for the statistical analyses.
+  Raw dataset used for the statistical analyses.
 
 - `Raw data - README - 0808.docx`
   Description of variables included in the dataset.
